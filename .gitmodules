@@ -1,0 +1,6 @@
+[submodule "Mumbai-Amber-Alert"]
+	path = Mumbai-Amber-Alert
+	url = https://github.com/OrthoDex/MumbaiAmberAlertChatbot
+[submodule "MumbaiAmberAlert"]
+	path = MumbaiAmberAlert
+	url = https://github.com/OrthoDex/MumbaiAmberAlertWeb
